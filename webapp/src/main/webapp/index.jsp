@@ -8,7 +8,7 @@ div {text-align: center;}
 </head>
 <body>
 
-<h1 style="color:blue;"> Hello, Welcome to Our DevOps Project  </h1>
+<h1 style="color:blue;"> Hello  </h1>
 <h1 style="color:blue;"> Version: 1.28 - Running on Ansible server  </h1>
 </body>
 </html>
